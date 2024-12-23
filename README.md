@@ -1,4 +1,4 @@
-# Penetration-Assessment-and-Remediation-Plan
+# Penetration Assessment and Remediation Plan
 
 ## Objective
 To evaluate Artemis Inc.'s IT infrastructure for potential vulnerabilities, including network devices, web applications, and cloud services. The project aimed to identify security gaps, assess risks, and prioritize remediation strategies. This work enhances the organization's ability to prevent cyber threats, protect sensitive data, and maintain operational resilience.
